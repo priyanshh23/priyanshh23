@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Priyansh Gupta  
 **AI/ML Engineer | Generative AI Developer | Voice Agent & NLP Enthusiast**  
-📍 Gurugram, India | 📧 [priyanshgupta9877@gmail.com](mailto:priyanshgupta9877@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshgupta9877) | 🧠 [GitHub](https://github.com/priyanshh23) Portfolio 🔗 https://portfolioo-4y16jjd54-priyanshgupta2310-6000s-projects.vercel.app/ 
+📍 Gurugram, India | 📧 [priyanshgupta9877@gmail.com](mailto:priyanshgupta9877@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshgupta9877) | 🧠 [GitHub](https://github.com/priyanshh23)|  Portfolio 🔗 https://portfolioo-4y16jjd54-priyanshgupta2310-6000s-projects.vercel.app/ |
 
 ---
 
